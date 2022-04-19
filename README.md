@@ -3,7 +3,7 @@
 I just graduated as a Computer Engineer and I am looking forward to excel my career in contributing in revolutionizing the world with NLP.
 
 - 🔭 I’m currently working on NLP 
-- 🌱 I’m currently learning in depth concepts of Natural Language Processing and Data Engineering.
+- 🌱 I’m currently learning pySpark and regularly increasing knowledge base in Data Engineering.
 - 👯 I’m looking to collaborate on with other content creators and developers. 
 - 💬 Ask me about Artificial Intelligence 
 - 📫 How to reach me: zayyanusmani6@gmail.com 
