@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Muhammad Zayyan Usmani
 #### AI developer | Community builder | Story teller
-I just graduated as a Computer Engineer and I am looking forward to excel my career in contributing in revolutionizing the world with NLP.
+A Computer Engineer who is mad passionate about the future and the sci-fi stories from the past that will come true. 
 
 - 🔭 I’m currently working on NLP 
 - 🌱 I’m currently learning pySpark and regularly increasing knowledge base in Data Engineering.
