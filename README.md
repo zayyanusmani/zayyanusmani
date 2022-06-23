@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Muhammad Zayyan Usmani
-#### AI developer | Community builder | Story teller
+#### Web 3.0 | Blockchain | MERN | ML | Community builder | Story teller
 A Computer Engineer who is mad passionate about the future and the sci-fi stories from the past that will come true. 
 
 - 🔭 I’m currently working on NLP 
